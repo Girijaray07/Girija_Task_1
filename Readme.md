@@ -1,4 +1,4 @@
-# Calculator CLI
+# [![Calculator CLI](./Images/Header.png)](https://github.com/Girijaray07/Girija_Task_1)
 
 A **Command Line Interface (CLI) Calculator** written in Python. This application provides a simple and interactive way to perform basic arithmetic operations using standard input and output.
 
